@@ -124,7 +124,7 @@ are mostly self-governing.
 - Singular: Ghidorian
 - Plural: Ghidorians
 
-### Viscii (bio)
+### Viscii
 
 In 143AP, the first Visca was created by Akrina Sova, a pre-Carcallan
 scientist, by heavily modifying the human genome to produce what she thought of
