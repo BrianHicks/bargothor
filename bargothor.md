@@ -1,5 +1,21 @@
 # Bargothor
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
+**Table of Contents**
+
+- [Bargothor](#bargothor)
+    - [Local System](#local-system)
+        - [Bargothor Itself](#bargothor-itself)
+        - [Bargothor Prime](#bargothor-prime)
+        - [Hadi](#hadi)
+    - [Historical Timeline](#historical-timeline)
+    - [Factions](#factions)
+        - [The Caracalla](#the-caracalla)
+        - [Ghidorians](#ghidorians)
+        - [Viscii](#viscii)
+
+<!-- markdown-toc end -->
+
 Bargothor is a very large moon orbiting a world "sort of close" to old
 Earth. Unfortunately, we don't know why the moon was colonized or even where
 Earth is, because Bargothors records were destroyed in conflict. All we really
