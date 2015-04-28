@@ -142,7 +142,7 @@ are mostly self-governing.
 
 ### Viscii
 
-In 143AP, the first Visca was created by Akrina Sova, a pre-Carcallan
+The first Visca was created around 75AP by Akrina Sova, a pre-Carcallan
 scientist, by heavily modifying the human genome to produce what she thought of
 as an "optimal" life form for the moon's conditions. Sova brought her creation
 before the planetary senate, and they strongly objected. Sova was quickly forced
