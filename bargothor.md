@@ -16,7 +16,9 @@ rocky or very icy. There is one standout, however: the desert moon of Hadi.
 
 ### Bargothor Itself
 
-![bargothor](bargothor_animated.gif) ([map](bargothor_isohedral.gif))
+![bargothor](bargothor_animated.gif)
+
+([map](bargothor_isosahedral.gif), [source](http://worldgen.bin.sh/worldgen.cgi?palette=Atlas&iter=5000&cmd=Create&name=Bargothor&pct_ice=7&height=400&seed=1666306175&projection=Animated&pct_water=50&motif=SciFi))
 
 Bargothor is a terrestrial world about two thirds the size of Earth (but with
 standard gravity, accounted for by its density). Its air is breathable to human
